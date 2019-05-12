@@ -13,6 +13,7 @@
   * Grid
 * Fetch API
 * OAuth 2.0 with Google APIs Client Library for JavaScript
+* GitHub Projects and Milestones for agile development
 
 ### Project Phases
 
