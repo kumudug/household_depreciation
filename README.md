@@ -1,2 +1,2 @@
-# household_depreciation
+# Household Item Depreciation 
 Track depreciation of household items
