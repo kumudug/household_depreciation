@@ -23,5 +23,5 @@
 
 ### Repository Links
 
-* [Layout Wireframe](https://github.com/kumudug/household_depreciation_layout_wireframe)
+* [Layout Wireframe - Private Repository](https://github.com/kumudug/household_depreciation_layout_wireframe)
 
