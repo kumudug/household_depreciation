@@ -26,11 +26,16 @@
 * [Layout Wireframe - Private Repository](https://github.com/kumudug/household_depreciation_layout_wireframe)
 
 
-__Mobile View__
+* __Mobile View__
+
 <img src="Responsive_Mobile.jpg" alt="Mobile View" width="200"/>
-__Tablet View__
+
+* __Tablet View__
+
 <img src="Responsive_Tablet.jpg" alt="Tablet View" width="400"/>
-__Desktop View__
+
+* __Desktop View__
+
 <img src="Responsive_Desktop.jpg" alt="Desktop View" width="600"/>
   
 
