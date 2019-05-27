@@ -27,8 +27,8 @@
   * Mobile View
 <img src="Responsive_Mobile.jpg" alt="Mobile View" width="200"/>
   * Tablet View
-<img src="Responsive_Tablet.jpg" alt="Tablet View" width="200"/>
+<img src="Responsive_Tablet.jpg" alt="Tablet View" width="400"/>
   * Desktop View
-<img src="Responsive_Desktop.jpg" alt="Desktop View" width="200"/>
+<img src="Responsive_Desktop.jpg" alt="Desktop View" width="600"/>
   
 
