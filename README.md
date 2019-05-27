@@ -25,7 +25,7 @@
 
 * [Layout Wireframe - Private Repository](https://github.com/kumudug/household_depreciation_layout_wireframe)
   * Mobile View
-  
+<img src="Responsive_Mobile.jpg" alt="Mobile View" width="200"/>
 ![mobileview](https://github.com/kumudug/household_depreciation/blob/master/Responsive_Mobile.jpg "Mobile View")
   * Tablet View
   
