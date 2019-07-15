@@ -23,8 +23,8 @@
 
 ### Repository Links
 
-* [Layout Wireframe - Private Repository](https://github.com/kumudug/household_depreciation_layout_wireframe)
-* [React Web App - Private Repository](https://github.com/kumudug/household_depreciation_react_web_app)
+* [Layout Wireframe - Private Repository (Email me to get access)](https://github.com/kumudug/household_depreciation_layout_wireframe)
+* [React Web App - Private Repository (Email me to get access)](https://github.com/kumudug/household_depreciation_react_web_app)
 
 
 * __Mobile View__
