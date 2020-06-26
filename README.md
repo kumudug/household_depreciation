@@ -7,6 +7,8 @@
 
 ### Technologies Used
 
+* React Native 
+* Expo
 * Firebase database 
 * CSS
   * Flexbox
